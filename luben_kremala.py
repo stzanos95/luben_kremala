@@ -44,9 +44,14 @@ def play():
 	print("\'Ellada eisai etoimi?\' - S. Kontizas")
 	still_playing = True
 	while still_playing:
-		guess_let = input("Gia madepse kana gramma: \n")
-		still_playing = checkGuess(guess_let)
-		print("===================================")
+		guess_let = str(input("Gia madepse kana gramma: \n"))
+		if guess_let.isalpha():
+			still_playing = checkGuess(guess_let)
+			print("===================================")
+		else:
+			print("Re gramma de sou eipa? Twra ftaiw egw na pw, pou ta vrikate auta ta fidania?")
+			print("===================================")
+			continue
 	
 if __name__ == "__main__":
 	play()
