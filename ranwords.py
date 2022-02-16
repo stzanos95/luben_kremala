@@ -1,4 +1,4 @@
-random_words = ["mouse", "frog", "ballet", "librarian", "science", "autograph", "bicycle", "monitor", "decorations", "electromagnetism", "jacket", "computer", "pencil", "staircase", "lake", "mountain", "forest", "tree", "water", "fire", "gold", "ambulance", "firefighter", ]
+random_words = ["mouse", "frog", "ballet", "librarian", "science", "autograph", "bicycle", "monitor", "decorations", "electromagnetism", "jacket", "stefanosxios", "computer", "pencil", "staircase", "lake", "mountain", "forest", "tree", "water", "fire", "gold", "ambulance", "firefighter", ]
 
 fail_words = ["Twra ftaiw egw na pw, pou ta vrikate auta ta fidania?", "TI EIPATE?????", "Ntolamdakia.", "Tinauta re, exoume paei sxoleio.", "AAAAAAAAAAAAAAAA!!!!", "H fasi, einai cringy.", "PROSOXI RE MALAKA.", "E se pianei mia ahdia.", "Edw einai mia stigmi parafrosunis."]
 
